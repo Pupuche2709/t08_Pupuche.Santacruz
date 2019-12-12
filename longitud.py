@@ -1,0 +1,59 @@
+#EJERCICIO 01
+msj="UN CLAVO SACE A ORTO CLAVO"
+print(len(msj))
+
+#EJERCICIO 02
+msj="LO BARATO SALE CARO"
+print(len(msj))
+
+#EJERCICIO 03
+msj="HOY POR TI, MAÑANA POR MI"
+print(len(msj))
+
+#EJERCICIO 04
+msj="LA FE MUEVE MONTAÑAS"
+print(len(msj))
+
+#EJERCICIO 05
+msj="NO ES ORO TODO LO QUE RELUCE"
+print(len(msj))
+
+#EJERCICIO 06
+msj="LO QUE FACIL VIENE, FACIL SE VA"
+print(len(msj))
+
+#EJRCICIO 07
+msj="AGUA QUE NO HAS DE BEBER DEJALA CORRER"
+print(len(msj))
+
+#EJRCICIO 08
+msj="QUIEN MUCHO ABARCA POCO APRIETA"
+print(len(msj))
+
+#EJRCICIO 09
+msj="MAS VALE PAJARO EN MANO QUE CIEN VOLANDO"
+print(len(msj))
+
+#EJRCICIO 10
+msj="A PALABRAS NECIAS OIDOS SORDOS"
+print(len(msj))
+
+#EJRCICIO 11
+msj="EL QUE CALLA OTORGA"
+print(len(msj))
+
+#EJRCICIO 12
+msj="EN CASA DE HERRERO CUCHILLO DE PALO"
+print(len(msj))
+
+#EJRCICIO 13
+msj="A CABALLO REGALADO NO SE LE MIRA EL DIENTE"
+print(len(msj))
+
+#EJRCICIO 14
+msj="DE TAL PALO TAL ASTILLA"
+print(len(msj))
+
+#EJRCICIO 15
+msj="PERRO QUE LADRA NO MUERDE"
+print(len(msj))
